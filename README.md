@@ -1,5 +1,7 @@
 # Agent Skills — pablomillaquen
 
+[![skills.sh](https://skills.sh/b/pablomillaquen/skills)](https://skills.sh/pablomillaquen/skills)
+
 A catalog of publishable Agent Skills. Each skill follows the open
 [Agent Skills](https://agentskills.io) standard (a directory with its
 `SKILL.md`, `references/`, etc.) and can be installed by any
